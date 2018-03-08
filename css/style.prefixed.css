@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #009900;
+  padding: 30px;
+}
+
+.container {
+  padding: 10px;
+}
+
+#js-resultsTableElement {
+  padding: 15px 250px;
+}
+/*# sourceMappingURL=style.prefixed.css.map */
